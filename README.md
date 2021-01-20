@@ -1,7 +1,7 @@
 # mod-project-generator
 Generates mod projects for minecraft (forge/fabric)
 
-##How to use
+## How to use
 
 Clone this repo to an empty folder
 
