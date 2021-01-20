@@ -1,0 +1,1 @@
+git clone https://github.com/fabricmc/fabric-example-mod/ %1\
