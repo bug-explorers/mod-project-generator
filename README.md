@@ -9,4 +9,4 @@ Open that folder in File Explorer
 
 In the top address bar type cmd then hit enter
 
-Type `make <modloader> <modname>` then it will do the rest for you. Have Fun!
+Type `makeBoth <modloader> <modname>` then it will do the rest for you. Have Fun!
